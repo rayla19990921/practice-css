@@ -1,0 +1,219 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  line-height: 2;
+
+}
+
+h1 {
+  font-size: 4rem;
+  color: #DF7861;
+
+}
+
+h2 {
+  font-size: 1.2rem;
+  color: #DF7861;
+}
+
+h3 {
+  font-size: 1.2rem;
+  text-align: center;
+
+}
+
+hr {
+  border: none;
+  border-style: dotted;
+  border-color: #DF7861;
+  border-bottom: none;
+  border-width: 6px;
+  width: 3%;
+  margin: auto;
+
+}
+
+.head-container {
+    background-color: #FCF8E8;
+    padding: 13px 15% 15px;
+    text-align: right;
+}
+.icon-img {
+  width: 1.5rem;
+
+}
+
+.head-text {
+  color: #DF7861;
+  padding: 20px;
+
+}
+
+.top-container {
+  background-color: #FCF8E8;
+  padding: 8% 15%;
+  text-align: left;
+
+}
+
+.background-img {
+  width: 40%;
+  float: right;
+
+
+}
+
+.second-container {
+  width: 30%;
+  text-align: center;
+  margin: 3rem auto;
+}
+
+.profile-img {
+  width: 10rem;
+}
+
+.column-container {
+  text-align: center;
+  position: relative;
+
+}
+
+.column-img {
+  width: 5rem;
+
+}
+
+
+.column-container-left {
+  background-color: #DEEDF0;
+  width: 29.33%;
+  padding: 2%;
+  position: absolute;
+
+}
+
+.column-container-center {
+  background-color: #BBDED6;
+  width: 29.34%;
+  padding: 2%;
+  margin-left: 33.33%;
+  position: absolute;
+}
+
+.column-container-right {
+  background-color: #FAE3D9;
+  width: 29.33%;
+  padding: 2%;
+  margin-left: 66.67%;
+}
+
+.third-container {
+  width: 30%;
+  text-align: center;
+  margin: 3rem auto;
+}
+
+.farming-img {
+  width: 10rem;
+}
+
+.who-we-are-container {
+    background-color: #E8F6EF;
+  text-align: left;
+  padding: 3rem;
+
+
+}
+
+.sub-who-we-are-container {
+  width: 60%;
+  margin-left: 20%;
+}
+
+
+.gardening-1-img {
+  width: 8rem;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.what-we-do-container {
+  text-align: left;
+  padding-top: 6rem;
+  padding: 3rem;
+  background-color: #F0E4D7;
+
+}
+
+.sub-what-we-do-container {
+  width: 60%;
+margin: 0 20% 0 20%;
+}
+
+.gardening-2-img {
+  width: 8rem;
+  float: right;
+    margin-left: 30px;
+
+}
+
+.contact-us-container {
+  width: 30%;
+  text-align: center;
+  margin: 3rem auto;
+}
+
+
+.contact-us-img {
+  width: 10rem;
+}
+
+.bottom-container {
+  background-color: #ECB390;
+  text-align: center;
+  color: white;
+  padding-top: 7rem;
+  padding-bottom: 1.5rem;
+}
+
+.bottom-left-img {
+  width: 5%;
+  float: left;
+  margin-left: 20%;
+
+}
+
+.bottom-right-img {
+  width: 5%;
+  float: right;
+  margin-right: 20%;
+
+}
+
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+.btn {
+  font-family: 'Open Sans', sans-serif;
+  color: #df7861;
+  font-size: 1.2rem;
+  background: #ffeaa6;
+  border: none;
+  padding: 7px 15px 7px 15px;
+  text-decoration: none;
+  margin-top: 15px;
+}
+
+.btn:hover {
+  background: #FFE381;
+  text-decoration: none;
+}
